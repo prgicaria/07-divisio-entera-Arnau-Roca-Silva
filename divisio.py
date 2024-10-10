@@ -1,6 +1,7 @@
 # Demanem valors enters per a divisor(n2) i dividend(n1):
-n2=int(input("Introdueix el divisor"))
+
 n1=int(input("Introdueix el dividend"))
+n2=int(input("Introdueix el divisor"))
 
 #Calculem el residu i el quocient:
 residu=n1%n2
